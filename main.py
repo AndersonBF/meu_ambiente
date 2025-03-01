@@ -26,3 +26,5 @@ if __name__ == "__main__":
     t.show()
     t.save("output/triangle.png")
     print("Imagem salva com sucesso!")
+
+print("teste")
